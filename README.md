@@ -1,1 +1,1 @@
-# Restaurant-Robot-Replica
+# Restaurant-Robot-Replica meeting resources
